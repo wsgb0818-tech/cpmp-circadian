@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "CPMP — limit-cycle reappraisal of circadian re-entrainment heuristics"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - given-names: Sha
+    family-names: Wang
+    orcid: "https://orcid.org/0009-0002-7545-7075"
+version: "1.0.0"
+date-released: "2026-06-20"
+license: MIT
+repository-code: "https://github.com/USERNAME/cpmp-circadian"
+# After minting the Zenodo DOI, uncomment and fill in the line below:
+# doi: "10.5281/zenodo.XXXXXXX"
