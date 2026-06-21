@@ -9,6 +9,6 @@ authors:
 version: "1.0.0"
 date-released: "2026-06-20"
 license: MIT
-repository-code: "https://github.com/USERNAME/cpmp-circadian"
+repository-code: "https://github.com/wsgb0818-tech/cpmp-circadian"
 # After minting the Zenodo DOI, uncomment and fill in the line below:
 # doi: "10.5281/zenodo.XXXXXXX"
